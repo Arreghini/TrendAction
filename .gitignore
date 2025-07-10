@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs
+*.log
+
+# Configuración de IDEs (ejemplos)
+.vscode/
+.idea/
+
+# Archivos generados por matplotlib (si no querés subir imágenes)
+*.png
+*.jpg
+
+# Otros archivos
+.DS_Store  # (Mac)
+Thumbs.db  # (Windows)
